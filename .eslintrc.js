@@ -18,8 +18,15 @@ module.exports = {
     },
   },
   rules: {
-    'prettier/prettier': ['error', prettierConfig],
+    'prettier/prettier': [
+      'error',
+      {
+        'endOfLine': 'auto',
+      },
+      prettierConfig,
+    ],
     'newline-before-return': 'error',
     'import/no-anonymous-default-export': 0,
+    'linebreak-style': ['error', process.platform === 'win32' ? 'windows' : 'unix'],
   },
 };
