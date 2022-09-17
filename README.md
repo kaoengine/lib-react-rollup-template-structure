@@ -2,7 +2,7 @@
 
 If you like the project and want to support my work, you can buy me a coffee :)
 
-[![paypal](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/kaihotz)
+[![paypal](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/kaoengine)
 
 # Getting started
 
@@ -11,14 +11,14 @@ There are two methods for getting started with this repo.
 #### Familiar with Git?
 
 ```
-git clone git@github.com:KaiHotz/react-rollup-boilerplate.git
+git clone git@github.com:kaoengine/react-rollup-boilerplate.git
 cd react-rollup-boilerplate
 yarn install
 ```
 
 #### Not Familiar with Git?
 
-Click [here](https://github.com/KaiHotz/react-rollup-boilerplate/archive/master.zip) to download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Click [here](https://github.com/kaoengine/react-rollup-boilerplate/archive/master.zip) to download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 yarn install
